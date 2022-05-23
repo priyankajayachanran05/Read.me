@@ -1,3 +1,20 @@
 # Read.me
-This is My First Project from the git
-Hello World.
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>WEBCODE</title>
+
+<link rel=”stylesheet” href=”style.css”>
+
+</head>
+
+<body>
+
+<h1>Look! It’s working! :)</h1>
+
+</body>
+
+</html>
